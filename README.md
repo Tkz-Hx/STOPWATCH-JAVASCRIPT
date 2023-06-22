@@ -1,1 +1,2 @@
 # STOPWATCH-JAVASCRIPT
+![Screenshot 2023-06-22 150128](https://github.com/Tkz-Hx/STOPWATCH-JAVASCRIPT/assets/134191208/c0cd31ac-dbb4-4c5b-a668-b7ed4ba016e2)
