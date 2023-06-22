@@ -58,6 +58,6 @@ This project was inspired by the need for a simple, lightweight stopwatch applic
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at [your-email@example.com](thesmartchoes3@gmail.com).
+If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at(thesmartchoes3@gmail.com).
 
 **Enjoy your stopwatch experience!**
